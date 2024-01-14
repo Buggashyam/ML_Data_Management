@@ -26,6 +26,7 @@ This project serves as both an educational resource for understanding machine le
 - [Documentation](#documentation)
 
 Data Generation: Synthetically generates user activity and response data, including features such as 'UserID', 'CourseViews', 'TimeSpent', 'QuizScores', 'Ratings', and 'Feedback'.
+![image](https://github.com/Buggashyam/ML_Data_Management/assets/148067186/b81f471d-fdf4-4ed4-bad8-9c116d8be95f)
 
 Data Preprocessing: Handles missing values, caps outliers, and creates a new feature ('NewFeature') as the product of 'TimeSpent' and 'QuizScores'.
 
