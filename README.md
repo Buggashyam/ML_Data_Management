@@ -24,6 +24,7 @@ This project serves as both an educational resource for understanding machine le
 - [Model Tuning](#model-tuning)
 - [Results Visualization](#results-visualization)
 - [Documentation](#documentation)
+- [License](#license)
 
 
 Data Generation: Synthetically generates user activity and response data, including features such as 'UserID', 'CourseViews', 'TimeSpent', 'QuizScores', 'Ratings', and 'Feedback'.
